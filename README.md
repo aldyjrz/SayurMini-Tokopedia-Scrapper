@@ -1,7 +1,15 @@
 # SayurMini-Tokopedia-Scrapper
 
-# How to use SayurMini-Tokopedia-Scrapper
+How to use SayurMini-Tokopedia-Scrapper
 
-`npm install`
+1. Install the dependencies
 
-`npm start`
+```
+npm install
+```
+
+2. start node with nodemon
+
+```
+npm start
+```
